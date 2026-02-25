@@ -1,0 +1,19 @@
+{
+  "name": "saari-marketplace",
+  "owner": {
+    "name": "saari"
+  },
+  "metadata": {
+    "description": "Claude Code plugins from saari"
+  },
+  "plugins": [
+    {
+      "name": "kilpi-skills",
+      "source": {
+        "source": "github",
+        "repo": "saari-ai/kilpi-skills",
+        "ref": "main"
+      }
+    }
+  ]
+}
