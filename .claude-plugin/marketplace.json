@@ -8,7 +8,7 @@
   },
   "plugins": [
     {
-      "name": "kilpi-skills",
+      "name": "kilpi",
       "source": {
         "source": "github",
         "repo": "saari-ai/kilpi-skills",
