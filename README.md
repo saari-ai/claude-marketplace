@@ -10,7 +10,7 @@ A marketplace definition that lists available Claude Code plugins. Claude Code u
 
 | Plugin | Description |
 |--------|-------------|
-| [kilpi-skills](https://github.com/saari-ai/kilpi-skills) | Interactive skills for applying the Kilpi security methodology |
+| [fiksu-skills](https://github.com/saari-ai/fiksu-skills) | Interactive skills for applying the fiksu methodologies |
 
 ## Structure
 

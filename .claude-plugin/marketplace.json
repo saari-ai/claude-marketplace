@@ -8,10 +8,10 @@
   },
   "plugins": [
     {
-      "name": "kilpi",
+      "name": "fiksu",
       "source": {
         "source": "github",
-        "repo": "saari-ai/kilpi-skills",
+        "repo": "saari-ai/fiksu-skills",
         "ref": "main"
       }
     }
